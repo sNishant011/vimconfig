@@ -9,3 +9,13 @@
 - [Pankaj Niroula](https://github.com/npankaj365)
 
 # Learned basics of vim from [frontend masters course](https://frontendmasters.com/courses/vim-fundamentals/) by [The Primeagen](https://github.com/ThePrimeagen).
+
+# Setup
+- Install Plugin manager [Vim Plug](https://github.com/junegunn/vim-plug)
+- Inside vim:
+
+```
+
+:PlugInstall
+
+```
